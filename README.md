@@ -1,1 +1,2 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=flightofnoobs&count_private=true)](https://youtu.be/dQw4w9WgXcQ)
+[![Stats](https://github-readme-stats.vercel.app/api?username=flightofnoobs&count_private=true)]
+![Leetcode Stats](https://leetcode.com/u/flightofnoobs/)
